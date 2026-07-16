@@ -4,8 +4,7 @@ This repository contains the LaTeX source for my curriculum vitae.
 
 ## 📄 Download
 
-[![Download CV](https://img.shields.io/badge/Download-CV%20(PDF)-brightgreen?style=for-the-badge&logo=adobeacrobatreader)](./cv.pdf)
-
+[![Download CV](https://img.shields.io/badge/Download-CV%20(PDF)-brightgreen?style=for-the-badge&logo=adobeacrobatreader)](./resume.pdf)
 Or view/edit the LaTeX source directly: [`cv.tex`](./cv.tex)
 
 ## Credit
